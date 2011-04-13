@@ -1,0 +1,250 @@
+%PDF-1.4
+%Å‚Å„ÅœÅ”\r
+1 0 obj
+<<
+/CreationDate (D:20090918162053)
+/ModDate (D:20090918162053)
+/Title (R Graphics Output)
+/Producer (R 2.9.2)
+/Creator (R)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Contents 6 0 R
+/Resources 4 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 7 0 R
+>>
+stream
+q
+Q q
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+29.52 44.93 m 29.52 217.72 l S
+29.52 44.93 m 25.92 44.93 l S
+29.52 102.53 m 25.92 102.53 l S
+29.52 160.13 m 25.92 160.13 l S
+29.52 217.72 m 25.92 217.72 l S
+BT
+0.000 0.000 0.000 rg
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 39.10 Tm (0.00) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 96.69 Tm (0.05) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 154.29 Tm (0.10) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 211.89 Tm (0.15) Tj
+ET
+29.52 36.72 m
+416.88 36.72 l
+416.88 258.48 l
+29.52 258.48 l
+29.52 36.72 l
+S
+Q q
+BT
+0.000 0.000 0.000 rg
+/F3 1 Tf 7.00 0.00 -0.00 7.00 119.78 270.73 Tm [(Pr) 20 (opor) -20 (tion of outlier) 15 (s in regression assessment using dfbetas)] TJ
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 203.52 9.36 Tm (Cut off method) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 6.48 114.80 Tm [(Propor) -40 (tion of data points)] TJ
+ET
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+43.87 44.93 21.10 5.33 re B
+1.000 0.000 0.000 rg
+64.96 44.93 21.10 8.15 re B
+0.000 0.000 0.000 rg
+107.16 44.93 21.10 0.45 re B
+1.000 0.000 0.000 rg
+128.26 44.93 21.10 0.59 re B
+0.000 0.000 0.000 rg
+170.45 44.93 21.10 0.05 re B
+1.000 0.000 0.000 rg
+191.55 44.93 21.10 0.09 re B
+0.000 0.000 0.000 rg
+233.75 44.93 21.10 38.00 re B
+1.000 0.000 0.000 rg
+254.85 44.93 21.10 48.57 re B
+0.000 0.000 0.000 rg
+297.04 44.93 21.10 18.10 re B
+1.000 0.000 0.000 rg
+318.14 44.93 21.10 24.96 re B
+0.000 0.000 0.000 rg
+360.34 44.93 21.10 193.81 re B
+1.000 0.000 0.000 rg
+381.44 44.93 21.10 191.62 re B
+Q q
+BT
+0.000 0.000 0.000 rg
+/F2 1 Tf 6.00 0.00 -0.00 6.00 46.83 23.76 Tm (dfb>1) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 110.12 23.76 Tm (dfb>2) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 173.41 23.76 Tm (dfb>3) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 226.59 23.76 Tm [(dfb>2/sqr) -40 (t\(N\))] TJ
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 289.88 23.76 Tm [(dfb>3/sqr) -40 (t\(N\))] TJ
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 356.29 23.76 Tm (dfb>3.5*iqr) Tj
+ET
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+29.52 44.93 m 29.52 217.72 l S
+29.52 44.93 m 25.92 44.93 l S
+29.52 102.53 m 25.92 102.53 l S
+29.52 160.13 m 25.92 160.13 l S
+29.52 217.72 m 25.92 217.72 l S
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 39.10 Tm (0.00) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 96.69 Tm (0.05) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 154.29 Tm (0.10) Tj
+ET
+BT
+/F2 1 Tf 0.00 6.00 -6.00 0.00 20.88 211.89 Tm (0.15) Tj
+ET
+Q q 29.52 36.72 387.36 221.76 re W n
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+64.96 236.44 44.44 -21.60 re S
+0.000 0.000 0.000 rg
+70.36 231.04 4.32 -3.60 re B
+1.000 0.000 0.000 rg
+70.36 223.84 4.32 -3.60 re B
+BT
+0.000 0.000 0.000 rg
+/F2 1 Tf 6.00 0.00 -0.00 6.00 80.08 227.09 Tm (Obtained) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 80.08 219.89 Tm [(Sim) 10 (ulated)] TJ
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 55.79 53.34 Tm (0.0024) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 119.83 45.78 Tm (1e-04) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 189.88 45.28 Tm (0) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 245.67 93.75 Tm (0.0092) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 310.64 70.14 Tm (0.006) Tj
+ET
+BT
+/F2 1 Tf 6.00 0.00 -0.00 6.00 370.51 239.00 Tm (-0.0019) Tj
+ET
+Q
+endstream
+endobj
+7 0 obj
+3182
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [
+5 0 R
+]
+/Count 1
+/MediaBox [0 0 432 288]
+>>
+endobj
+4 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <</F2 9 0 R /F3 10 0 R >>
+/ExtGState << >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+/Differences [ 45/minus 96/quoteleft
+144/dotlessi /grave /acute /circumflex /tilde /macron /breve /dotaccent
+/dieresis /.notdef /ring /cedilla /.notdef /hungarumlaut /ogonek /caron /space]
+>>
+endobj
+9 0 obj <<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding 8 0 R
+>> endobj
+10 0 obj <<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Bold
+/Encoding 8 0 R
+>> endobj
+xref
+0 11
+0000000000 65535 f 
+0000000021 00000 n 
+0000000163 00000 n 
+0000003547 00000 n 
+0000003630 00000 n 
+0000000212 00000 n 
+0000000292 00000 n 
+0000003527 00000 n 
+0000003722 00000 n 
+0000003979 00000 n 
+0000004075 00000 n 
+trailer
+<<
+/Size 11
+/Info 1 0 R
+/Root 2 0 R
+>>
+startxref
+4177
+%%EOF

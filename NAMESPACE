@@ -1,0 +1,2 @@
+export(anotaPerformQc, anotaResidOutlierTest, anotaGetSigGenes, anotaPlotSigGenes)
+import(multtest)
